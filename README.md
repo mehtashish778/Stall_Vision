@@ -25,12 +25,12 @@ This project is a video processing application that provides video analytics for
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/videoprocessingapp.git
+    git clone https://github.com/mehtashish778/Stall_Vision.git
     ```
 
 2. Change to the project directory:
     ```bash
-    cd videoprocessingapp
+    cd Stall_Vision
     ```
 
 3. Create a virtual environment and activate it:
