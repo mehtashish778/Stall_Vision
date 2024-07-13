@@ -1,4 +1,4 @@
-# Video Processing App
+# Stall Vision
 
 This project is a video processing application that provides video analytics for stores and marketing stalls. It is inspired by Amazon Rekognition and built using Streamlit, YOLOv5, and DeepSort for object detection and tracking.
 #
